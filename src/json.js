@@ -26,7 +26,7 @@ export const json = {
           "titleLocation": "hidden",
           "isRequired": true,
           "maxLength": 25,
-          "placeholder": "Emily Johnson"
+          "placeholder": "yared worku"
         }
       ]
     },
@@ -237,7 +237,7 @@ export const json = {
   "startSurveyText": "Start Quiz",
   "firstPageIsStartPage": true,
   "questionsOnPageMode": "questionPerPage",
-  "timeLimit": 120,
+  "timeLimit": 200,
   "showTimer": true,
   "headerView": "advanced"
 };
