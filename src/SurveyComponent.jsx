@@ -6,6 +6,7 @@ import { themeJson } from "./theme";
 import "./index.css";
 import { json } from "./json";
 //  function to read the survey
+
 function SurveyComponent() {
     const survey = new Model(json);
     survey.applyTheme(themeJson);
